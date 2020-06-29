@@ -50,6 +50,7 @@
 |  [BoundingBox](./puppeteer.boundingbox.md) |  |
 |  [BoxModel](./puppeteer.boxmodel.md) |  |
 |  [BrowserFetcherOptions](./puppeteer.browserfetcheroptions.md) |  |
+|  [BrowserFetcherRevisionInfo](./puppeteer.browserfetcherrevisioninfo.md) |  |
 |  [ClickOptions](./puppeteer.clickoptions.md) |  |
 |  [ConsoleMessageLocation](./puppeteer.consolemessagelocation.md) |  |
 |  [CoverageEntry](./puppeteer.coverageentry.md) | The CoverageEntry class represents one entry of the coverage report. |
@@ -63,6 +64,7 @@
 |  [RemoteAddress](./puppeteer.remoteaddress.md) |  |
 |  [SerializedAXNode](./puppeteer.serializedaxnode.md) | Represents a Node and the properties of it that are relevant to Accessibility. |
 |  [SnapshotOptions](./puppeteer.snapshotoptions.md) |  |
+|  [TracingOptions](./puppeteer.tracingoptions.md) |  |
 |  [WaitForOptions](./puppeteer.waitforoptions.md) |  |
 |  [WaitForTargetOptions](./puppeteer.waitfortargetoptions.md) |  |
 |  [WaitTimeoutOptions](./puppeteer.waittimeoutoptions.md) |  |
@@ -85,6 +87,8 @@
 |  [JSONArray](./puppeteer.jsonarray.md) |  |
 |  [KeyInput](./puppeteer.keyinput.md) |  |
 |  [MouseButtonInput](./puppeteer.mousebuttoninput.md) |  |
+|  [Platform](./puppeteer.platform.md) | Supported platforms. |
+|  [Product](./puppeteer.product.md) | Supported products. |
 |  [PuppeteerErrors](./puppeteer.puppeteererrors.md) |  |
 |  [Serializable](./puppeteer.serializable.md) |  |
 |  [SerializableOrJSHandle](./puppeteer.serializableorjshandle.md) |  |
