@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer",
+  "name": "puppeteer-fx",
   "version": "4.0.0-post",
   "description": "A high-level API to control headless Chrome over the DevTools Protocol",
   "main": "./cjs-entry.js",
